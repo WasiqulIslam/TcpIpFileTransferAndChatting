@@ -43,7 +43,7 @@ public class Connector implements Serializable, ActionListener
 
    public Connector()
    {
-      JOptionPane.showMessageDialog( mainFrame, "Connector v1.0( 3:10 AM 2/9/2005 )\nProgrammed by Wasiqul Islam\ne_mail: wasiqul_islam@yahoo.com", "About", JOptionPane.INFORMATION_MESSAGE );
+      JOptionPane.showMessageDialog( mainFrame, "Connector v1.0 (3:10 AM 2/9/2005)\nProgrammed by Wasiqul Islam\ne_mail: islam.wasiqul@gmail.com", "About", JOptionPane.INFORMATION_MESSAGE );
       try
       {
          String a = JOptionPane.showInputDialog( null, "Please type your name below:" );
